@@ -1,0 +1,8 @@
+setup.py
+empiricaldist/__init__.py
+empiricaldist/empiricaldist.py
+empiricaldist/test_empiricaldist.py
+empiricaldist.egg-info/PKG-INFO
+empiricaldist.egg-info/SOURCES.txt
+empiricaldist.egg-info/dependency_links.txt
+empiricaldist.egg-info/top_level.txt
